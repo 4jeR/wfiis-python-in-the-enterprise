@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "name": "Adam",
+            "surname": "Kowalski"
+        },
+        {
+            "name": "Piotr",
+            "surname": "Nowak"
+        },
+        {
+            "name": "Agata",
+            "surname": "Szur",
+            "school": "UJ"
+        }
+    ]
+}
